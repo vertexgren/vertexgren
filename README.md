@@ -2,6 +2,8 @@
 
 # Ilyas Jakupov
 
+![Astana](https://img.shields.io/badge/Astana-404040?style=flat-square&logoColor=ffffff)
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=700&lines=Full-stack+%2F+Backend+Developer;Rust+%C2%B7+Python+%C2%B7+Vue+%C2%B7+Flutter;API+%C2%B7+Integrations+%C2%B7+Mobile" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=50&section=header&fontSize=0" alt="" />
