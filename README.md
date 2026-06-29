@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111111,100:333333&height=80&section=header&text=Ilyas%20Jakupov&fontSize=38&fontColor=ffffff&fontAlignY=55&stroke=ffffff&strokeWidth=0" alt="Ilyas Jakupov" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111111,100:333333&height=84&section=header&text=Ilyas%20Jakupov&fontSize=40&fontColor=ffffff&fontAlignY=55&stroke=ffffff&strokeWidth=0" alt="Ilyas Jakupov" />
 
 <br /><br />
 
-## Full-stack Developer  
-Astana
+<font size="6"><b>Full-stack Developer</b></font>  
+<br />
+<font size="5">Astana</font>
 
 <br />
 
-<font size="4">
+<font size="5">
 
 Web products, headless CMS backends, and integration-heavy services — from Nuxt dashboards to FastAPI microservices.
 
@@ -24,24 +25,24 @@ I ship practical full-stack systems: **Vue/Nuxt** frontends, **Strapi** + **Post
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nuxt-111111?style=flat-square&logo=nuxtdotjs&logoColor=ffffff" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Vue-111111?style=flat-square&logo=vuedotjs&logoColor=ffffff" alt="Vue" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=ffffff" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Strapi-111111?style=flat-square&logo=strapi&logoColor=ffffff" alt="Strapi" />
+  <img src="https://img.shields.io/badge/Nuxt-111111?style=for-the-badge&logo=nuxtdotjs&logoColor=ffffff" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" alt="Vue" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Strapi-111111?style=for-the-badge&logo=strapi&logoColor=ffffff" alt="Strapi" />
   <br />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker" />
-  <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=ffffff" alt="Rust" />
-  <img src="https://img.shields.io/badge/Yandex%20Cloud-111111?style=flat-square&logo=yandexcloud&logoColor=ffffff" alt="Yandex Cloud" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=ffffff" alt="Rust" />
+  <img src="https://img.shields.io/badge/Yandex%20Cloud-111111?style=for-the-badge&logo=yandexcloud&logoColor=ffffff" alt="Yandex Cloud" />
 </p>
 
 ---
 
-## What I Work On
+<font size="6"><b>What I Work On</b></font>
 
-<font size="4">
+<font size="5">
 
 - **Nuxt / Vue** apps — company sites, admin dashboards, form builders, and workflow UIs.
 - **Strapi** + **PostgreSQL** backends for content-driven products and CMS-backed frontends.
@@ -55,6 +56,6 @@ I ship practical full-stack systems: **Vue/Nuxt** frontends, **Strapi** + **Post
 
 <p align="center">
   <a href="https://github.com/vertexgren">
-    <img src="https://img.shields.io/badge/@vertexgren-111111?style=flat-square&logo=github&logoColor=ffffff" alt="@vertexgren" />
+    <img src="https://img.shields.io/badge/@vertexgren-111111?style=for-the-badge&logo=github&logoColor=ffffff" alt="@vertexgren" />
   </a>
 </p>
