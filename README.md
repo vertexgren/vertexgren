@@ -1,19 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111111,100:333333&height=72&section=header&text=Ilyas%20Jakupov&fontSize=34&fontColor=ffffff&fontAlignY=55&stroke=ffffff&strokeWidth=0" alt="Ilyas Jakupov" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111111,100:333333&height=80&section=header&text=Ilyas%20Jakupov&fontSize=38&fontColor=ffffff&fontAlignY=55&stroke=ffffff&strokeWidth=0" alt="Ilyas Jakupov" />
 
 <br /><br />
 
-**Full-stack Developer**  
-<sub>Astana</sub>
+## Full-stack Developer  
+Astana
 
 <br />
+
+<font size="4">
 
 Web products, headless CMS backends, and integration-heavy services — from Nuxt dashboards to FastAPI microservices.
 
 <br /><br />
 
 I ship practical full-stack systems: **Vue/Nuxt** frontends, **Strapi** + **PostgreSQL** backends, **Docker**-based delivery, and third-party APIs when the product needs them.
+
+</font>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=40&section=header&fontSize=0" alt="" />
 
@@ -35,13 +39,17 @@ I ship practical full-stack systems: **Vue/Nuxt** frontends, **Strapi** + **Post
 
 ---
 
-### What I Work On
+## What I Work On
+
+<font size="4">
 
 - **Nuxt / Vue** apps — company sites, admin dashboards, form builders, and workflow UIs.
 - **Strapi** + **PostgreSQL** backends for content-driven products and CMS-backed frontends.
 - **FastAPI** services — e.g. speech-to-text pipelines with **Yandex SpeechKit**.
 - **API integrations** — hospitality and business systems (`iikoCloud`, external REST APIs).
 - **Docker** and **GitHub Actions** for local dev, containerized deploys, and CI.
+
+</font>
 
 ---
 
