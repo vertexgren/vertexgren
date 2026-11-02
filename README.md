@@ -1,55 +1,54 @@
-<div align="center">
-
-<h1>Ilyas Jakupov</h1>
-
-<h2>Full-stack Developer</h2>
-
-<h3>Astana</h3>
-
-<br />
-
-</div>
-
-<h2 align="center">Web products, headless CMS backends, and integration-heavy services — from Nuxt dashboards to FastAPI microservices.</h2>
-
-<br />
-
-<h2 align="center">I ship practical full-stack systems: <b>Vue/Nuxt</b> frontends, <b>Strapi + PostgreSQL</b> backends, Docker-based delivery, and third-party APIs when the product needs them.</h2>
-
-<br />
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Nuxt-111111?style=for-the-badge&logo=nuxtdotjs&logoColor=ffffff" height="40" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" height="40" alt="Vue" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=ffffff" height="40" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ffffff" height="40" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=ffffff" height="40" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Strapi-111111?style=for-the-badge&logo=strapi&logoColor=ffffff" height="40" alt="Strapi" />
-  <br />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=ffffff" height="40" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=ffffff" height="40" alt="Docker" />
-  <img src="https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=ffffff" height="40" alt="Rust" />
-  <img src="https://img.shields.io/badge/Yandex%20Cloud-111111?style=for-the-badge&logo=yandexcloud&logoColor=ffffff" height="40" alt="Yandex Cloud" />
+  <img src="./assets/header.png" width="100%" alt="Ilyas Jakupov — full-stack developer in Astana. Web products, APIs, and connected systems." />
 </p>
 
-<br />
-
-<h1 align="center">What I Work On</h1>
-
-<h2 align="center"><b>Nuxt / Vue apps</b> — company sites, admin dashboards, form builders, and workflow UIs.</h2>
-
-<h2 align="center"><b>Strapi + PostgreSQL</b> — backends for content-driven products and CMS-backed frontends.</h2>
-
-<h2 align="center"><b>FastAPI services</b> — e.g. speech-to-text pipelines with Yandex SpeechKit.</h2>
-
-<h2 align="center"><b>API integrations</b> — hospitality and business systems (<code>iikoCloud</code>, external REST APIs).</h2>
-
-<h2 align="center"><b>Docker & GitHub Actions</b> — for local dev, containerized deploys, and CI.</h2>
-
-<br />
+<p align="center">
+  <strong>From interface to integration.</strong><br />
+  I build web products with Vue / Nuxt, practical backends, and the APIs that connect them.
+</p>
 
 <p align="center">
-  <a href="https://github.com/vertexgren">
-    <img src="https://img.shields.io/badge/@vertexgren-111111?style=for-the-badge&logo=github&logoColor=ffffff" height="40" alt="@vertexgren" />
-  </a>
+  <a href="#what-i-build">What I build</a> &nbsp;·&nbsp;
+  <a href="#stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#open-source">Open source</a>
+</p>
+
+---
+
+## What I build
+
+- **Web interfaces** — company sites, admin dashboards, form builders, and workflow UIs with Vue / Nuxt.
+- **Product backends** — Strapi + PostgreSQL applications and FastAPI services, including speech-to-text pipelines with Yandex SpeechKit.
+- **Connected systems** — iikoCloud and external REST API integrations, with Docker and GitHub Actions for delivery.
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxt&logoColor=00DC82" alt="Nuxt" height="26" />
+  <img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" height="26" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" height="26" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD166" alt="Python" height="26" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" height="26" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Strapi-0D1117?style=flat-square&logo=strapi&logoColor=9991FF" alt="Strapi" height="26" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=7CA5CC" alt="PostgreSQL" height="26" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" height="26" />
+  <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=F5A97F" alt="Rust" height="26" />
+  <img src="https://img.shields.io/badge/Yandex%20Cloud-0D1117?style=flat-square&logo=yandexcloud&logoColor=FFCC00" alt="Yandex Cloud" height="26" />
+</p>
+
+## Open source
+
+### [iiko_client_rs ↗](https://github.com/vertexgren/iiko_client_rs)
+
+A Rust client for the **iikoCloud API**, generated with OpenAPI Generator. Covers restaurant workflows including orders, deliveries, reservations, menus, and loyalty.
+
+[Rust source](https://github.com/vertexgren/iiko_client_rs) &nbsp;·&nbsp; [API documentation](https://github.com/vertexgren/iiko_client_rs/tree/main/docs)
+
+---
+
+<p align="center">
+  <sub>Interfaces · Services · Integrations</sub><br />
+  <a href="https://github.com/vertexgren?tab=repositories"><sub>Explore my repositories ↗</sub></a>
 </p>
