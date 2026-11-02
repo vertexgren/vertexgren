@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.png" width="100%" alt="Ilyas Jakupov — full-stack developer in Astana. Web products, APIs, and connected systems." />
+  <img src="./assets/header.png" width="100%" alt="vertexgren — full-stack developer. Web products, APIs, and connected systems." />
 </p>
 
 <p align="center">
